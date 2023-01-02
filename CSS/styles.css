@@ -1,4 +1,4 @@
 font-family: Arial, sans-serif;
-.header {}
-#omakuva {width: 50%; height: auto; border-radius: 50%;}
+.header {vertical-align: middle;}
+#omakuva {width: 10%; height: auto; border-radius: 50%;}
 #h {color: blue;}
