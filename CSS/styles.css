@@ -1,4 +1,4 @@
-body {width: 90%; height: 90%;}
+body {width: 90%; height: 90%; margin-left: auto; margin-right: auto;}
 .header {background-color: grey;}
 #omakuva {width: 7%; height: auto; border-radius: 50%;}
 #h {color: blue;}
