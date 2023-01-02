@@ -1,8 +1,8 @@
 font-family: Arial, sans-serif;
 #minä {
   size: 10%;
-  floating: left;
+  float: left;
 }
 #h {
-  floating: left;
+  float: left;
 }
