@@ -1,4 +1,5 @@
 body {width: 90%; height: 90%; margin-left: auto; margin-right: auto; background-color: black;}
 .header {background-color: grey;}
+.link {font-size: 2%;}
 #omakuva {width: 10%; height: auto; border-radius: 50%; margin: 1%;}
 #h {color: blue;}
