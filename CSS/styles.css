@@ -1,6 +1,7 @@
 font-family: Arial, sans-serif;
 #minä {
-  size: 50%;
+  size: 10%;
+  floating: left;
 }
 #h {
   floating: left;
