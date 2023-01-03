@@ -1,6 +1,8 @@
 body {width: 90%; height: 90%; margin-left: auto; margin-right: auto; background-color: red;}
-.header {background-color: grey; margin-top: 1.5%; border-radius: 3.7%;}
+.header {background-color: grey; margin-top: 1.5%; border-radius: 3.7%; height: 290px;}
 .link {}
-#omakuva {width: 10%; height: auto; border-radius: 50%; margin: 1%;}
-#h {color: black; font-size: 200%;}
+#omakuva {width: 10%; height: auto; border-radius: 50%; margin: 1%; text-align: center;
+vertical-align: middle; line-height: 290px;}
+#h {color: black; font-size: 200%;text-align: center;
+vertical-align: middle; line-height: 290px;}
 .navigation {}
