@@ -2,4 +2,4 @@ body {width: 90%; height: 90%; margin-left: auto; margin-right: auto; background
 .header {background-color: grey; margin-top: 1.5%;}
 .link {font-size: 275%; color: black;}
 #omakuva {width: 10%; height: auto; border-radius: 50%; margin: 1%;}
-#h {color: blue;}
+#h {color: blue; font-size: 50%}
