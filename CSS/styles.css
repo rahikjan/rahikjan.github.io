@@ -3,4 +3,4 @@ body {width: 90%; height: 90%; margin-left: auto; margin-right: auto; background
 .link {}
 #omakuva {width: 10%; height: auto; border-radius: 50%; margin: 1%;}
 .header {margin: auto;}
-.header p {color: black; font-size: 300%;}
+.header p {color: black; font-size: 300%; margin: auto;}
