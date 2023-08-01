@@ -5,14 +5,3 @@ body {width: 90%; height: 90%; margin-left: auto; margin-right: auto; background
 #h {color: black; font-size: 200%;}
 .navigation {}
 
-.float-container {
-    border: 3px solid #fff;
-    padding: 20px;
-}
-
-.float-child {
-    width: 50%;
-    float: left;
-    padding: 20px;
-    border: 2px solid red;
-} 
