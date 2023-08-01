@@ -8,10 +8,10 @@
 .float-child {
     width: 25%;
     float: left;
-    border: 2px solid red;
+    border: 1px solid red;
 }
 .float-child2 {
-    width: 74%;
+    width: 75%;
     float: right;
-    border: 2px solid red;
+    border: 1px solid red;
 }
