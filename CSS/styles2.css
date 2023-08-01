@@ -6,13 +6,13 @@
 }
 
 .float-child {
-    width: 50%;
+    width: 45%;
     float: left;
     padding-left: 10px;
     border: 2px solid red;
 }
 .float-child2 {
-    width: 50%;
+    width: 45%;
     float: right;
     padding-right: 10px;
     border: 2px solid red;
