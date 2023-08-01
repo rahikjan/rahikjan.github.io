@@ -6,13 +6,13 @@
 
 .float-child {
     width: 24.5%;
-    height: 50px;
+    height: 10%;
     float: left;
     border: 1px solid red;
 }
 .float-child2 {
     width: 75.2%;
-    height: 50px;
+    height: 10%;
     float: right;
     border: 1px solid red;
 }
